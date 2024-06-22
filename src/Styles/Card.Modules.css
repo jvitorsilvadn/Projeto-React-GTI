@@ -1,0 +1,32 @@
+.projetos{
+    justify-content: space-between;
+    display: flex;
+    float: left;
+    justify-content: space-evenly;
+    text-align: center;
+    align-content: center;
+}
+.card{
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+    justify-content: space-evenly;
+    margin: 30px 50px 30px;
+}
+
+.sobre p{
+    width: 500px;
+    font-size: 20px;
+}
+
+.sobre img {
+    width: 400px;
+    left: 30px;
+    top: 30px;
+}
+
+.sobre h2{
+    width: 30px;
+    margin: 0;
+    margin-right: 100px;
+}

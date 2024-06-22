@@ -1,0 +1,26 @@
+[
+    {
+      "estado": "São Paulo",
+      "rua": "Rua das Flores, 123",
+      "bairro": "Jardim Primavera",
+      "cidade": "São Paulo",
+      "cep": "01001-000",
+      "url": "https://www.google.com/maps/place/R.+das+Flores,+123+-+Jardim+Primavera,+Cotia+-+SP,+06725-200/data=!4m2!3m1!1s0x94cfa71d5af48801:0x14601234f49a7803?sa=X&ved=1t:242&ictx=111"
+    },
+    {
+      "estado": "Rio de Janeiro",
+      "rua": "Avenida Atlântica, 4567",
+      "bairro": "Copacabana",
+      "cidade": "Rio de Janeiro",
+      "cep": "22070-000",
+      "url": "https://www.google.com/maps/place/Av.+Atlântica,+4567+-+Copacabana,+Rio+de+Janeiro+-+RJ,+22070-020/data=!4m2!3m1!1s0x9bd53b7907eb5d:0xd0343c5735d6fdc8?sa=X&ved=1t:242&ictx=111"
+    },
+    {
+      "estado": "Ceará",
+      "rua": "Rua Padre Cicero, 2012",
+      "bairro": "Conjunto Metropolitano",
+      "cidade": "Caucaia",
+      "cep": "61605-000",
+      "url": "https://www.google.com/maps/place/R.+Padre+Cicero+-+Conj.+Metropolitano,+Caucaia+-+CE,+61604-340/@-3.7556844,-38.6620107,17z/data=!3m1!4b1!4m6!3m5!1s0x7c0b357e45fbcff:0x85ceaa2beba567a6!8m2!3d-3.7556844!4d-38.6620107!16s%2Fg%2F11bvtfy6f8?entry=ttu"
+    }
+  ]

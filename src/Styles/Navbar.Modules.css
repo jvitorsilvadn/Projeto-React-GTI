@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lora', Arial, Helvetica, sans-serif;
+}   
+
+.navbar{
+    padding: 4% auto;
+    max-width: 1900px;
+    margin: 0 auto;
+    height: 110px;
+    background: black;
+    position: sticky;
+    top: 0px;
+    z-index: 0;
+}
+.someNavbar{
+    padding: 4% auto;
+    max-width: 1900px;
+    margin: 0 auto;
+    height: 110px;
+    background: black;
+    top: 0px;
+    z-index: 0;
+}
+
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav ul{
+    list-style: none;
+}
+
+nav ul li{
+    display: inline-block;
+    margin: 0px 25px;
+}
+
+nav ul li a{
+    padding: 10px 50px;
+    text-decoration: none;
+    font-size: 22px;
+    color: #daa520 ;
+    border-radius: 30px;
+    transition: 0.6s;
+}
+
+nav a{
+    position: relative;
+}
+
+nav a::after{
+    content: " ";
+    width: 0%;
+    height: 4px;
+    background: #daa520;
+    position: absolute;
+    bottom: 7px;
+    left: 0;
+    transition: 0.5s ease-in-out;
+}
+
+nav a:hover::after{
+    width: 100%;
+}
+
+.iconeLogo img {
+    height: 120px;
+    margin-left: 50px;
+}
